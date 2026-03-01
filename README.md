@@ -1,8 +1,3 @@
-Absolutely. I've consolidated everything into one master **`README.md`** that includes the **Quick Start**, **Real-Time Architecture**, and all **Design Diagrams** (using Mermaid code that renders directly on GitHub).
-
-This is the "gold standard" for a portfolio project. Copy the entire block below:
-
-```markdown
 # 🏟️ TurfSync: Real-Time Sports Venue Management System
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
