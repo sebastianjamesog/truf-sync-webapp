@@ -88,4 +88,4 @@ Unlike traditional apps that require refreshing, TurfSync uses an **Event-Driven
 
 Distributed under the MIT License.
 
-**Developed by [Sebastian James]** *Available for Full-Stack & AI Engineering opportunities.*
+**Developed by Sebastian James** *Available for Full-Stack & AI Engineering opportunities.*
